@@ -1,4 +1,4 @@
-# ukol1
+# Úkol1
 
 Tento projekt slouží k opakování základních webových technologií z předchozích ročníků.
 
